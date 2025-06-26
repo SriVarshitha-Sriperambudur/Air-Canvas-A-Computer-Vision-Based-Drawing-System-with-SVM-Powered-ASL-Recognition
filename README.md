@@ -1,6 +1,6 @@
 # Air-Canvas-A-Computer-Vision-Based-Drawing-System-with-SVM-Powered-ASL-Recognition
 
-This project is an advanced Air Canvas system developed using Python, OpenCV, MediaPipe, and machine learning (SVM) techniques. It enables users to draw in the air using hand gestures, without touching any screen or surface. Designed as an interactive, touchless virtual drawing tool, this project also supports ASL sign-to-text recognition and can interpret gestures to draw shapes and objects automatically.
+This project is an advanced Air Canvas system developed using Python, OpenCV, MediaPipe, and Machine Learning which includes Support Vector Machine techniques. It enables users to draw in the air using hand gestures, without touching any screen or surface. Designed as an interactive, touchless virtual drawing tool, this project also supports ASL sign-to-text recognition and can interpret gestures to draw shapes and objects automatically.
 
 🚀 Features:
 
