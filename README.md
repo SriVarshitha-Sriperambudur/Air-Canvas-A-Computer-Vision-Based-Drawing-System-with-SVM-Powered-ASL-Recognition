@@ -6,30 +6,53 @@ This project is an advanced Air Canvas system developed using Python, OpenCV, Me
 
 🎯 Real-time Hand Tracking using MediaPipe
 
-🖐️ Gesture-Based Drawing System
+🖐️ Gesture-Based Drawing System:
+
 Finger tracking to draw freehand
+
 Gesture controls for mode switching (draw, erase, clear, undo, etc.)
 
-🧠 Sign Language Recognition using SVM
+
+🧠 Sign Language Recognition using SVM: 
+
 Converts ASL signs into on-screen text
 
-✏️ Air Text Writing
+
+✏️ Air Text Writing: 
+
 Write words in the air letter by letter
+
 Recognizes individual letters to form text dynamically
 
-🔊 Voice Feedback
+
+
+🔊 Voice Feedback: 
+
 Speaks out recognized text or shapes
+
 Confirms tool selection or action execution via audio
 
-🛠️ Customizable Drawing Toolkit
+
+
+🛠️ Customizable Drawing Toolkit: 
+
 Adjustable brush colors, thickness, and tool modes
+
 Shape detection (circle, rectangle, triangle)
 
-📉 Smoother Drawing
+
+
+📉 Smoother Drawing: 
+
 Fingertip noise reduced using Exponential Moving Average (EMA) filter
 
-🎨 Interactive Toolbar
+
+
+🎨 Interactive Toolbar: 
+
 Gesture-based access to tools and options
+
+
 
 📦 Modular Architecture with easy-to-modify components
 
