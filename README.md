@@ -4,16 +4,21 @@ This project is an advanced Air Canvas system developed using Python, OpenCV, Me
 
 
 🔧 Prerequisites
-Ensure the following are installed:
 
-Python 3.7+
-pip (Python package installer)
-Git (to clone the repository)
+->Ensure the following are installed:
+
+  Python 3.7+
+
+  pip (Python package installer)
+
+
 
 
 🧠 Libraries Required
-Install dependencies by running:
-pip install opencv-python mediapipe numpy pyttsx3 scikit-learn
+
+->Install dependencies by running:
+
+  pip install opencv-python mediapipe numpy pyttsx3 scikit-learn
 
 
 
